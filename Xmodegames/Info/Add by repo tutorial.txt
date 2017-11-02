@@ -1,0 +1,26 @@
+How to add Xmodgames Repo
+
+1. Open Cydia
+
+
+
+
+
+2. Go to "Sources" and tap on "Edit"
+
+
+
+
+
+
+3. Tap on "Add"
+
+
+
+
+
+
+4. Enter http://apt.xmodgames.com and tap on "Add Source"
+
+
+
